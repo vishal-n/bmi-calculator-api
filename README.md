@@ -2,7 +2,7 @@
 
 1. Run the command: **git clone git@github.com:vishal-n/bmi-calculator-api.git**
 
-2. Once the repo is installed, cd into the repository and run the command: pip install -r requirements.txt
+2. Once the repo is installed, cd into the repository and run the command: **pip install -r requirements.txt**
 
 3. Once all the requirements / dependencies are installed, run the command: **uvicorn app.main:app --reload**
 
