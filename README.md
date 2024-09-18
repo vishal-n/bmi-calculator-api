@@ -1,4 +1,4 @@
-Steps to run the application on localhost:
+**Steps to run the application on localhost:**
 
 1. Run the command: git clone git@github.com:vishal-n/bmi-calculator-api.git
 
